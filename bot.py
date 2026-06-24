@@ -1,4 +1,4 @@
-from telegram import Update
+8430625870:AAEv5jUjHL2P9dptY6mufBpYReixObZ6qCIfrom telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
